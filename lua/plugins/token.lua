@@ -1,0 +1,4 @@
+return {
+    'ThorstenRhau/token',
+    version = '*',
+}
